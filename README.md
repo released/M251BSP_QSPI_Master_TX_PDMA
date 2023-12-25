@@ -20,7 +20,7 @@ update @ 2023/12/25
 - BYTE(n-0) : TAIL 1 , 0xA5
 
 
-2. press digit Q/q , will generate 160 bytes data , press agagin will generate 1600 bytes data
+2. press digit Q/q , will generate 160 bytes data , press again will generate 1600 bytes data
 
 3. press digit 1 , will send QSPI TX by PDMA 160 BYTES 
 
